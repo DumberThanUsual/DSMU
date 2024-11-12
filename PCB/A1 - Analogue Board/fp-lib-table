@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AD7124-4")(type "KiCad")(uri "${KIPRJMOD}/symbols/AD7124-4/AD7124-4.pretty")(options "")(descr ""))
+  (lib (name "AD7190")(type "KiCad")(uri "${KIPRJMOD}/symbols/AD7190BRUZ/AD7190.pretty")(options "")(descr ""))
+)
